@@ -1,4 +1,4 @@
-___Hvis du afprøver dette sikkerhedshul, så brug din egen NemID bruger!___
+___Hvis du afprøver dette sikkerhedshul, så brug kun din egen NemID bruger!___
 
 Indledning
 ----------
